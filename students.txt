@@ -1,0 +1,5 @@
+job,1,92,Distinction
+maina,2,76,Merit
+paul,3,65,Pass
+David,4,48,Fail
+kimani,5,88,Distinction

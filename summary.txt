@@ -1,0 +1,6 @@
+Total Students: 5
+Distinction: 2
+Merit: 1
+Pass: 1
+Fail: 1
+Average Marks: 73.80
